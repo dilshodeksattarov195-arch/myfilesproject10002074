@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencalculate",
+        "uuid": 19449972,
+        "checksum": "z6ybpb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
